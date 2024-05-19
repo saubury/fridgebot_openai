@@ -1,0 +1,9 @@
+config_secrets.py
+.venv/*
+media/*.json
+media/*.jpg
+
+.DS_Store
+__pycache__/*
+
+
