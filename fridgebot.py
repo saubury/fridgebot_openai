@@ -51,3 +51,9 @@ if __name__=='__main__':
 
     add_task(removed_item)
     print(f'Adding todoist item {removed_item}')
+
+    # dirty = TODO
+    # Load reference image and diff against current?
+    dirty = True
+    if dirty:
+      add_task("clean the fridge")
